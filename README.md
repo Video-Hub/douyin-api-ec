@@ -29,7 +29,7 @@
 
 
 <a name="zOzBk"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 
 <a name="ZbxPg"></a>
@@ -43,7 +43,7 @@
 | cursor | int | 翻页游标，初始为1，第二页则传2，以此类推 |
 
 <a name="9sW9M"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 
 <a name="Jwyk3"></a>
@@ -57,7 +57,7 @@
 
 
 <a name="uzF8D"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 <a name="KM6K1"></a>
 
